@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain Bafna</h1>
+<h3 align="center">Akshat is a Software Engineer with deep interests in Finance, business and entrepreneurship.</h3>
+
 - 🔭 I’m currently working on [Finemate](https://finemate.co)
+
+- 🌱 I’m currently revising **all the knowledge and skills I have acquired**
 
 - 📝 I regularly write tweets on [https://twitter.com/akshatjainbafna](https://twitter.com/akshatjainbafna)
 
-- 💬 Ask me about **react & python**
+- 💬 Ask me about **React.js & Python**
 
 - 📫 How to reach me **akshatbjain.aj@gmail.com**
 
-- ⚡ Fun fact **Building a Github profile to participate in the rat race**
+- ⚡ Fun fact **Luck is a real thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
