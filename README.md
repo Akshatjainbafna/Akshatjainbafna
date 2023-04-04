@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain Bafna</h1>
 <h3 align="center">Akshat is a Software Engineer with deep interests in Finance, business and entrepreneurship.</h3>
 
-- 🔭 I’m currently working on [Finemate](https://finemate.co)
+- 🔭 I’m currently working on [Finemate](https://finemate.co/home)
 
 - 🌱 I’m currently revising **all the knowledge and skills I have acquired**
 
