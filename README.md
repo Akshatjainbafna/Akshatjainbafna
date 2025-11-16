@@ -19,8 +19,8 @@
 <a href="https://linkedin.com/in/akshat-jain-571435139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-jain-571435139" height="30" width="40" /></a>
 <a href="https://instagram.com/a_different_being_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_different_being_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshatbjain_aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshatbjain_aj" height="30" width="40" /></a>
-</p>
 <a href="[https://www.hackerrank.com/akshatbjain_aj](https://leetcode.com/u/p4NcOTKIs7/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatbjain_aj" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
