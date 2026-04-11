@@ -3,10 +3,6 @@
 
 - 🔭 Worked on a social learning, knowledge retention application as a solopreneur. [Finemate](https://finemate.co/home)
 
-- 🌱 I’m currently revising **all the knowledge and skills I have acquired**
-
-- 📝 I regularly write tweets on [https://twitter.com/akshatjainbafna](https://twitter.com/akshatjainbafna)
-
 - 💬 Ask me about **React.js & Python**
 
 - 📫 How to reach me **akshatbjain.aj@gmail.com**
@@ -17,6 +13,9 @@
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/92f4cdbb-6f97-4f2e-ae5b-d07d572613bf" />
 
 Unlike my peers I have empathy for servers.
+
+<h3 align="left">Know more about me:</h3>
+<a href="https://khuli-kitab-git-master-akshatjainbafnas-projects.vercel.app/" target="blank">https://khuli-kitab-git-master-akshatjainbafnas-projects.vercel.app/ </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
