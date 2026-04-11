@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Luck is a real thing**
 
-- Are you looking for BS clones?
+- Are you looking for BS clones or vibe coded garbage?
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/92f4cdbb-6f97-4f2e-ae5b-d07d572613bf" />
 
 Unlike my peers I have empathy for servers.
