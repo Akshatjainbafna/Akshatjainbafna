@@ -3,7 +3,7 @@
 
 - 🔭 Worked on a social learning, knowledge retention application as a solopreneur. [Finemate](https://finemate.co/home)
 
-- 💬 Ask me about **React.js & Python**
+- 💬 Ask me about **JavaScript & Python**
 
 - 📫 How to reach me **akshatbjain.aj@gmail.com**
 
@@ -16,6 +16,10 @@ Unlike my peers I have empathy for servers.
 
 <h3 align="left">Know more about me:</h3>
 <a href="https://khuli-kitab-git-master-akshatjainbafnas-projects.vercel.app/" target="blank">https://khuli-kitab-git-master-akshatjainbafnas-projects.vercel.app/ </a>
+
+<a href="https://drive.google.com/file/d/1daaFSkSZQ_acvfbIx24Y8_ej3zQIT-fg/view?usp=sharing" download>
+  Roses are red, violets are blue, ATS watches it often, now it's your turn to watch it soon (Guess who am I?) 
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
