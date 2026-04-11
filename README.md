@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **Luck is a real thing**
 
+- Are you looking for BS clones?
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/92f4cdbb-6f97-4f2e-ae5b-d07d572613bf" />
+Unlike my peers I have empathy for servers.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshatjainbafna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatjainbafna" height="30" width="40" /></a>
