@@ -15,6 +15,7 @@
 
 - Are you looking for BS clones?
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/92f4cdbb-6f97-4f2e-ae5b-d07d572613bf" />
+
 Unlike my peers I have empathy for servers.
 
 <h3 align="left">Connect with me:</h3>
